@@ -1,6 +1,6 @@
 ---
 layout: post
-title:新百胜娱乐 果敢老街相关图片
+title: 新百胜娱乐 果敢老街相关图片
 author: Songzi Vong
 tags:
 - jekyll theme
